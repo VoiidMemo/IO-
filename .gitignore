@@ -1,0 +1,9 @@
+# 打包中间产物
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# 运行时生成的输出文件
+IO映射输出.txt
